@@ -13,6 +13,6 @@ Sou técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o e
 Gosto de explorar o universo do desenvolvimento, mas também me fascino pela área de hardware.
 
 > Back-end | Front-end
-
 <hr>
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsueyano&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
