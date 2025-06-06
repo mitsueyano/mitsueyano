@@ -8,7 +8,7 @@
 
 ### Sobre mim :coffee:
 
-Sou técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026. Amo estar sempre aprendendo e criando!
+Sou técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026. Amo estar sempre aprendendo e criando.
 
 Gosto de explorar o universo do desenvolvimento, mas também me fascino pela área de hardware.
 
