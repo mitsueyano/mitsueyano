@@ -8,14 +8,13 @@
 
 ### Sobre mim :coffee:
 
-Sou técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026. Amo estar sempre aprendendo e criando.
+Sou Técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026. 
+Aprecio a integridade entre o código e o hardware que o sustenta.
 
-Gosto de explorar o universo do desenvolvimento, mas também me fascino pela área de hardware.
-
-> Back-end & Front-end
+> Full Stack
 
 <a href="https://instagram.com/mitsue_yano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiza-mitsue-yano-567a88197" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <hr>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsueyano&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mitsueyano&theme=shadow)
