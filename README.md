@@ -13,6 +13,7 @@ Aprecio a integridade entre o código e o hardware que o sustenta.
 
 > Full Stack
 
+
 <a href="https://instagram.com/mitsue_yano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiza-mitsue-yano-567a88197" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <hr>
