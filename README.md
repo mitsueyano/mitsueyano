@@ -8,8 +8,8 @@
 
 ### Sobre mim :coffee:
 
-<p>Sou Técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026.</p>
-<p>Você pode conferir alguns dos meus principais projetos no meu </p>[Portfólio.](https://mitsueyano.github.io)
+Sou Técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026.
+Você pode conferir alguns dos meus principais projetos no meu [Portfólio.](https://mitsueyano.github.io)
 
 > Full Stack
 
