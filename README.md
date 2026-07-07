@@ -8,8 +8,8 @@
 
 ### Sobre mim :coffee:
 
-Sou Técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026. 
-Aprecio a integridade entre o código e o hardware que o sustenta.
+Sou Técnica em Desenvolvimento de Sistemas e estou no caminho para concluir o ensino superior em Análise e Desenvolvimento de Sistemas até dezembro de 2026.
+Acesse meu [Portfólio](https://mitsueyano.github.io)
 
 > Full Stack
 
