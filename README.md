@@ -18,4 +18,4 @@ Você pode conferir alguns dos meus principais projetos no meu [Portfólio.](htt
 <a href="https://www.linkedin.com/in/luiza-mitsue-yano-567a88197" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <hr>
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mitsueyano&theme=shadow)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mitsueyano&langs_count=4)
